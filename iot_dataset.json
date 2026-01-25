@@ -1,0 +1,43 @@
+[
+    {
+      "input": "Node 1: CPU 95%, RAM 85%, Temp 85C, Latency 300ms",
+      "output": "High load detected at Node 1. Shift workload to Node 2."
+    },
+    {
+      "input": "Node 2: CPU 40%, RAM 30%, Temp 45C, Latency 50ms",
+      "output": "Low load at Node 2. Safe to allocate additional pods."
+    },
+    {
+      "input": "Node 3: CPU 70%, RAM 60%, Temp 65C, Latency 120ms",
+      "output": "Moderate load at Node 3. Monitor performance and consider optimization if trend increases."
+    },
+    {
+      "input": "Node 1: CPU 85%, RAM 75%, Temp 80C, Latency 200ms",
+      "output": "High load approaching threshold at Node 1. Prepare to reallocate some workloads."
+    },
+    {
+      "input": "Node 4: CPU 25%, RAM 35%, Temp 40C, Latency 60ms",
+      "output": "Low load at Node 4. Can safely assign new tasks or pods."
+    },
+    {
+      "input": "Node 2: CPU 92%, RAM 88%, Temp 82C, Latency 250ms",
+      "output": "Critical load detected at Node 2. Immediate workload redistribution recommended."
+    },
+    {
+      "input": "Node 3: CPU 60%, RAM 50%, Temp 60C, Latency 100ms",
+      "output": "Moderate load at Node 3. Continue monitoring performance."
+    },
+    {
+      "input": "Node 5: CPU 50%, RAM 45%, Temp 55C, Latency 90ms",
+      "output": "Stable load at Node 5. No action required."
+    },
+    {
+      "input": "Node 1: CPU 98%, RAM 90%, Temp 88C, Latency 320ms",
+      "output": "Overload at Node 1. Urgently shift workload to underutilized nodes."
+    },
+    {
+      "input": "Node 4: CPU 35%, RAM 40%, Temp 50C, Latency 80ms",
+      "output": "Low to moderate load at Node 4. System operating normally."
+    }
+  ]
+  
