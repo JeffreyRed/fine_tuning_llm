@@ -117,3 +117,8 @@ Example:
   "input": "Node 1: CPU 95%, RAM 85%, Temp 85C, Latency 300ms",
   "output": "High load detected at Node 1. Shift workload to Node 2."
 }
+```
+---
+## 5. Results
+[Training Loss](training_loss.png)
+
