@@ -167,6 +167,4 @@ off to execution systems. See also:
 
 ## Author
 
-[Jeffrey Redondo](https://jeffreyredondo.vercel.app) — PhD in Computer Science (AI & Networking),
-Senior Researcher at Iquadrat Barcelona. Background in 5G/6G network optimization,
-multi-agent RL, and edge computing.
+[Jeffrey Redondo](https://jeffreyredondo.vercel.app) — PhD in Computer Science (AI & Networking)
